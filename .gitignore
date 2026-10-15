@@ -1,0 +1,8 @@
+New-Item -Path .gitignore -ItemType File -Force
+Set-Content .gitignore @"
+*.class
+*.jar
+junit-standalone.jar
+.vscode/
+bin/
+"@
