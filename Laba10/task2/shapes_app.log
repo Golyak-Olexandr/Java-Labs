@@ -1,0 +1,8 @@
+нояб. 12, 2026 11:23:47 PM main.Main main
+INFO: === Старт програми (Логування: Logger=FINE, File=FINE -> shapes_app.log, Console=WARNING) ===
+нояб. 12, 2026 11:23:47 PM main.ShapeRepository generateDataset
+INFO: Початок генерації набору даних із 10 фігур.
+нояб. 12, 2026 11:23:47 PM main.ShapeRepository generateDataset
+FINE: Генерацію 10 фігур успішно завершено.
+нояб. 12, 2026 11:23:47 PM main.ShapeController processData
+INFO: Запуск головного циклу обробки меню.

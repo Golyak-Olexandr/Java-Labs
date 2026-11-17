@@ -1,0 +1,32 @@
+нояб. 12, 2026 11:24:41 PM main.Main main
+INFO: === Старт програми (Логування: Logger=FINE, File=FINE -> shapes_app.log, Console=WARNING) ===
+нояб. 12, 2026 11:24:41 PM main.ShapeRepository generateDataset
+INFO: Початок генерації набору даних із 10 фігур.
+нояб. 12, 2026 11:24:41 PM main.LocalizationManager setLocale
+INFO: Встановлено локаль інтерфейсу: uk
+нояб. 12, 2026 11:24:42 PM main.ShapeRepository generateDataset
+FINE: Генерацію 10 фігур успішно завершено.
+нояб. 12, 2026 11:24:42 PM main.ShapeController processData
+INFO: Запуск головного циклу обробки меню.
+нояб. 12, 2026 11:24:58 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '9'
+нояб. 12, 2026 11:25:00 PM main.LocalizationManager setLocale
+INFO: Встановлено локаль інтерфейсу: pl
+нояб. 12, 2026 11:25:14 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '9'
+нояб. 12, 2026 11:25:17 PM main.LocalizationManager setLocale
+INFO: Встановлено локаль інтерфейсу: en
+нояб. 17, 2026 7:53:17 PM main.Main main
+INFO: === Старт програми (Логування: Logger=FINE, File=FINE -> shapes_app.log, Console=WARNING) ===
+нояб. 17, 2026 7:53:17 PM main.ShapeRepository generateDataset
+INFO: Початок генерації набору даних із 10 фігур.
+нояб. 17, 2026 7:53:17 PM main.LocalizationManager setLocale
+INFO: Встановлено локаль інтерфейсу: uk
+нояб. 17, 2026 7:53:17 PM main.ShapeRepository generateDataset
+FINE: Генерацію 10 фігур успішно завершено.
+нояб. 17, 2026 7:53:17 PM main.ShapeController processData
+INFO: Запуск головного циклу обробки меню.
+нояб. 17, 2026 7:53:22 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '9'
+нояб. 17, 2026 7:53:23 PM main.LocalizationManager setLocale
+INFO: Встановлено локаль інтерфейсу: en

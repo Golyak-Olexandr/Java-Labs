@@ -2,6 +2,8 @@ New-Item -Path .gitignore -ItemType File -Force
 Set-Content .gitignore @"
 *.class
 *.jar
+*.pdf
+*.docx
 junit-standalone.jar
 .vscode/
 bin/

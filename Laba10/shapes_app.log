@@ -1,0 +1,38 @@
+нояб. 12, 2026 11:06:40 PM main.Main main
+INFO: === Старт програми (Логування: Logger=FINE, File=FINE -> shapes_app.log, Console=WARNING) ===
+нояб. 12, 2026 11:06:40 PM main.ShapeRepository generateDataset
+INFO: Початок генерації набору даних із 10 фігур.
+нояб. 12, 2026 11:06:40 PM main.ShapeRepository generateDataset
+FINE: Генерацію 10 фігур успішно завершено.
+нояб. 12, 2026 11:06:40 PM main.ShapeController processData
+INFO: Запуск головного циклу обробки меню.
+нояб. 12, 2026 11:06:54 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '1'
+нояб. 12, 2026 11:06:54 PM main.ShapeController processData
+INFO: Виведення списку всіх фігур (10 шт.).
+нояб. 12, 2026 11:07:05 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '2'
+нояб. 12, 2026 11:07:05 PM main.ShapeController processData
+INFO: Обчислено загальну площу: 414,60
+нояб. 12, 2026 11:07:06 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '3'
+нояб. 12, 2026 11:07:08 PM main.ShapeController handleTypeArea
+WARNING: Обрано невідомий тип фігури: 4
+нояб. 12, 2026 11:07:14 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '0'
+нояб. 12, 2026 11:07:14 PM main.ShapeController processData
+INFO: Користувач обрав вихід із програми.
+нояб. 12, 2026 11:07:14 PM main.Main main
+INFO: === Роботу програми завершено ===
+нояб. 12, 2026 11:20:56 PM main.Main main
+INFO: === Старт програми (Логування: Logger=FINE, File=FINE -> shapes_app.log, Console=WARNING) ===
+нояб. 12, 2026 11:20:56 PM main.ShapeRepository generateDataset
+INFO: Початок генерації набору даних із 10 фігур.
+нояб. 12, 2026 11:20:56 PM main.ShapeRepository generateDataset
+FINE: Генерацію 10 фігур успішно завершено.
+нояб. 12, 2026 11:20:56 PM main.ShapeController processData
+INFO: Запуск головного циклу обробки меню.
+нояб. 12, 2026 11:21:03 PM main.ShapeController processData
+FINE: Користувач ввів пункт меню: '9'
+нояб. 12, 2026 11:21:03 PM main.ShapeController processData
+WARNING: Введено неіснуючий пункт меню: 9
